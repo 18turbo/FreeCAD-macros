@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # (c) 18Turbo, 2022
 
-__Name__ = 'Generador3D'
+__Name__ = 'Generate From Views (Generador 3D)'
 __Comment__ = 'Create a solid with 2 or 3 sketches (views)'
 __Author__ = '18Turbo'
 __Version__ = '0.1.1'
@@ -99,7 +99,7 @@ strLang = [
     [ # English
         ## Strings for translation into any language (English Strings)
 
-        "3D Generator",
+        "GenerateFromViews",
         "Select a sketch in 2 or 3 views:",
         "Front view - (Front/Rear):",
         "Check this box if you want to activate the front view and assign it a sketch",
